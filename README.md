@@ -17,7 +17,8 @@ En este directorio del proyecto, puedes ejecutar los siguientes comandos en tu t
 ### `npm start`
 
 Corre la aplicación
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+Abre[http://localhost:3000](http://localhost:3000) para verlo en tu navegador.
 
 La página se volverá a cargar cuando realices cambios. También puedes ver los errores en la consola.
 
